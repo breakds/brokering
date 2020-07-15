@@ -8,6 +8,9 @@ let pkgs = import <nixpkgs> {
       flask
       psutil
       pyyaml
+      
+      pyopenssl
+      service-identity
       twisted
     ]);
 
