@@ -8,6 +8,7 @@ let pkgs = import <nixpkgs> {
       flask
       psutil
       pyyaml
+      tqdm
       
       pyopenssl
       service-identity
